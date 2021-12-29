@@ -1,10 +1,6 @@
 ### Olá! Eu sou o David Batista 👋
 
 
-**davidbji/davidbji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 Hoje estou me especializando em front-end
 - 🌱 Estudando ReactJs e Typescript 
 
