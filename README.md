@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje estou me especializando em front-end
-- 🌱 Estudando ReactJs e Typescript 
+- 🌱 Estudando ReactJs, JavaScript e Typescript 
 
 <div align="center">
   <a href="https://github.com/davidbji">
